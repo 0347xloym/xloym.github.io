@@ -139,6 +139,8 @@ body {
     border-top-style: none;
     border-top-width: 0;
     display: block;
+    font-family:"pingfang SC";
+    font-weight:300;
     line-height: 1.5;
     margin-bottom: 0.7em;
     margin-left: 0;
@@ -289,4 +291,5 @@ body {
     page-break-before: avoid;
     text-align: center
     }
+
 
